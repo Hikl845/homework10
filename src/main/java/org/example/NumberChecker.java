@@ -3,7 +3,7 @@ import java.io.*;
 
 public class NumberChecker {
 
-    public void NumberChecker() {
+    public void numberChecker() {
         try (BufferedReader fileReader = new BufferedReader(
                 new FileReader("/resources/Task1.txt"))) {
 
